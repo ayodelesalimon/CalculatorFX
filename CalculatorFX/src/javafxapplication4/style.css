@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 3, 2019, 1:15:52 PM
+    Author     : USER
+*/
+
+#btn{
+    -fx-background-color: #333333;
+    -fx-border-color: white;
+    -fx-border-width:0.5px;
+    -fx-text-fill: #ffffff;
+}
+
+#btn:hover {
+    -fx-background-color: #24292F;
+    -fx-text-fill: #ffffff;
+}
+
+#textfield{
+    -fx-alignment:TOP_RIGHT;
+    -fx-background-color: white;
+    -fx-font: serif;
+    -fx-size: 500;
+}
+
+#boxtext{
+    -fx-font: sans-serif;
+    -fx-font-family: arial;
+    -fx-size: 500;
+    -fx-border-width: 5px
+}
+
+#equalbtn{
+    -fx-background-color:blue;
+    -fx-border-color: white;
+    -fx-border-width:0.5px;
+    -fx-text-fill: #ffffff;
+}
+
+#equalbtn:hover {
+    -fx-background-color:#ffff66;
+    -fx-text-fill: #ffffff;
+}
+
+#clearbtn{
+    -fx-background-color:#00cccc;
+    -fx-border-color: white;
+    -fx-border-width:0.5px;
+    -fx-text-fill: #ffffff;
+}
+
+#clearbtn:hover {
+    -fx-background-color:#ffff66;
+    -fx-text-fill: #ffffff;
+}
